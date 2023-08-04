@@ -10,6 +10,6 @@
 
 >> git commit -m "Create JSON API"
 
->> git push -u origin master
+>> git push -u origin main
 
 "Your new JSON API will be located at the URL [username].github.io/[file-name].json"
