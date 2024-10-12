@@ -39,7 +39,7 @@
       "vis": 9.9,
       "weather": {
         "icon": "c01n",
-        "description": "Clear sky",
+        "description": "(1/2) Normal",
         "code": 800
       },
       "wind_cdir": "SW",
